@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on ... Any of my repositories! Or anything in general :)
 - 🕮  My Blog is at [tmck-code.github.io](tmck-code.github.io)
 
-_Need to bling up your terminal? Try pokesay! [github.com/tmck-code/pokesay-go](github.com/tmck-code/pokesay-go)_
+_Need to bling up your terminal? Try pokesay! [tmck-code/pokesay-go](https://github.com/tmck-code/pokesay-go)_
